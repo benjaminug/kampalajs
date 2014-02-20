@@ -1,0 +1,71 @@
+body {
+background-image: url(../images/kampala.jpg);
+background-attachment: fixed;
+}
+.logo.navbar-btn.pull-left img {
+	width: 40%;
+}
+.name.navbar-brand {
+display: none;
+}
+.navbar-nav {
+margin: 0;
+}
+
+.navbar-nav>li>a {
+padding-top: 25px;
+padding-bottom: 26px;
+}
+
+.navbar-default {
+background-color: rgba(248, 248, 248, 0.44);
+border-color: rgba(31, 29, 29, 0.28);
+}
+#block-block-2 {
+padding: 22px 0 0px 21px;
+}
+#block-block-2 img {
+width: 2.5em;
+padding: 5px 0px 0px 18px;
+}
+#kampalajs-header {
+font-family: 'Alegreya';
+font-size: 10em;
+color: rgba(255, 255, 255, 0.83);
+}
+
+.html.front  .page-header {
+	display: none;
+}
+.html.front .field.field-name-body.field-type-text-with-summary.field-label-hidden {
+text-align: center;
+}
+
+.html.front  #block-sharethis-sharethis-block {
+text-align: center;
+}
+
+#kampalajs-description {
+background-color: rgba(248, 248, 248, 0.89);
+border-color: rgba(31, 29, 29, 0.28);
+border-radius: 4px;
+width: 70%;
+margin: auto;
+padding: 10px;
+margin-bottom: 15px;
+text-shadow: 1px 0.1px #FFF;
+font-size: 1em;
+color: rgba(0, 0, 0, 0.85);
+}
+.region.region-content {
+padding: 10px;
+background-color: rgba(248, 248, 248, 0.83);
+border-color: rgba(31, 29, 29, 0.28);
+border-radius: 2px;
+}
+.html.front .region.region-content {
+padding: 10px;
+background-color: transparent;
+border-color: rgba(31, 29, 29, 0.28);
+border-radius: 2px;
+}
